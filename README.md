@@ -1,3 +1,6 @@
+This project requires this backend to work: https://github.com/giovanniantonaccio/graphql-node-server/tree/master
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
